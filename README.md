@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/GitHub-Deylin-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://wa.me/50432955554">
-    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
+    <img src="https://img.shields.io/badge/Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="mailto:deylinbo91@gmail.com">
     <img src="https://img.shields.io/badge/Email-Enviame%20un%20correo-EA4335?style=for-the-badge&logo=gmail">
