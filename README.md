@@ -42,7 +42,7 @@
 ## 📫 **¡Contáctame!**  
 <p align="center">
   <a href="https://github.com/deylin-eliac">
-    <img src="https://img.shields.io/badge/GitHub-Deylin-eliac-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Deylin-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://wa.me/50432955554">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
